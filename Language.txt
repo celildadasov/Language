@@ -1,0 +1,32 @@
+﻿javascript 1995 ci ilde yaradilib.ilk olaraq adi live script olub.Sonradan deyisdirilerek java script olub
+java script internet sehifelerinin yaradilmasi ile bagli proqramlasdirma dilidir.html ile bagli bir proqramlasdirma
+dilidir.html ozu ise proqramlasdirma dili deyil .bundan elave,javascript ve java arasinda adindan basqa demek olar ki 
+hec bir oxsarliq yoxdur.yeni onlarin semantikalari bir birinden ferqlenir.Javascriptin yazilis sekli bir nov C dilinden
+goturulub.
+
+
+Ruby dilinin yaradicisi  yapon Yukihiro Matsumotodur. bu dili yaratmaq ucun purl,smalltalk ve eiffel dillerinden istifade
+edilib.ruby dili lori dilde desek insan diline daha yaxindir .cunki burda daha cox soz istifade olunur.Ruby 
+proqramlasdirma dili sadeliyi ile secilir ve tebii bir soz duzulusune malikdir.Ruby-ye bir nov proqramcinin en yaxin
+dostuda deyirler.Ruby dil olaraq smalltalk-a benzeyir.ustun ceheti ise sintaksisinin daha sade olmasidir.
+
+C dili Dennis Ritche ve Ken Tompson terefinde 1972 ci ilde yaradilib.C dili A ve B dillierinin inkisafi ucucn yaradilib .
+B dili cox inkisaf etmediyinden Dennis ritci c dilini yaratmaga nail olub.C dili bir cox proqramlasdirma dillerinin c++,
+java,perl .objective-c ve.s dillerinin yaradilmasinda boyuk rolu olub.C dili hal hazirdada en cox istifade olunan diller-
+den biridir.C dili bir coxlari terefinden bilinmesinin vacib olundugu ile beraber,hemde azerbaycanda da genis istifade 
+olunur))
+
+
+cobol dili daha cox ticaretle ve is yerlerinin idare olunmasi ile bagli olaraq yaradilib.hal hazirda cobol cox 
+islenmesede vacib bir dildir.cunki,2001 ci ilde microsoft terefinden .net framework terefinden desteklenmeye baslanib
+
+
+assembly dili kohne ve oyrenilmesi vaxt alan bir dildir .hal hazirda da islenme faizi boyuk deil.assembly dili asagi 
+seviyeli bir dildir.bir cox dillre gore strukturu tamamile ferqli ve cetindir.assembly proqramlasdirma dili hal hazirda 
+ancaq sistem proqramlasdirmasinda istifade olunur.bir cox proqramlasdirma dillerinde etdiyimiz prosesi bu dilde daha uzun
+ve daha vaxt alcaq sekilde hell edirler.
+
+
+ Maşın dilində proqram tərtib  etdikdə hər şeydən əvvəl dəyişənlər və konstantlar üçün  maşının yaddaşında yer ayrılır.
+Maşın dilində proqram maşın əmrləri ardıcıllığından və dəyişənlər, konstantlar üçün yaddaşda təyin edilmiş müəyyən 
+sahelerden ibaretdir...
